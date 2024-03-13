@@ -20,7 +20,7 @@ Dll **Poisoner** Written In **Nim**.
 ## ⚙ Compiling
 
 ```
-$ nim c -d:release main.nim
+$ nim c -d:release thanatos.nim
 ```
 ## 🎡 Output
 
